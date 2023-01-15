@@ -1,14 +1,6 @@
 # 플러터 채팅 
 
-## Getting Started
+유튜버 [코딩쉐프](https://www.youtube.com/@codingchef)님의 플러터 채팅 앱 강좌를 통해 만든 채팅 어플입니다.
 
-This project is a starting point for a Flutter application.
+firebase의 auth과 core를 사용하였고, flutter_chat_bubble를 사용하여 UI를 좀 더 꾸며주었습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
