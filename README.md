@@ -1,6 +1,4 @@
-# flutter_chat
-
-A new Flutter project.
+# 플러터 채팅 
 
 ## Getting Started
 
